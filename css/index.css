@@ -187,3 +187,42 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+ /* about css*/
+
+.img jumbo{
+  padding:15px;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+.about{
+  padding:20px;
+}
+.double sides{
+  width:100%;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  
+}
+.boxes{
+  width:50%;
+  height: 400px;
+  margin-bottom:20px;
+  border-bottom: 2px solid grey;
+
+}
+
+.learn{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.learn:hover{
+  color: blue;
+}
+.bottom{
+  padding:20px;
+  display:flex;
+  flex-wrap: wrap;
+}
